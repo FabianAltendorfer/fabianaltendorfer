@@ -2,7 +2,7 @@
 
 My name is Fabian, and I'm a Data Science and Engineering student at University of Applied Sciences Upper Austria, Hagenberg interested in all things Data Science & Machine Learning!
 
-- 👨🏻‍💻 I'm currently working on my own LLM API.
+- 👨🏻‍💻 I'm currently working on my own API.
 - 🌱 I’m currently learning about Neuro-Symbolic AI.
 - 📫 <b>How to reach me:</b> [LinkedIn](https://www.linkedin.com/in/fabian-altendorfer/)
 
