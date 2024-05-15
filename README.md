@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Fabian, and I'm a Data Science and Engineering student at University of Applied Sciences Upper Austria, Hagenberg interested in all things Data Science & Machine Learning!
+My name is Fabian, and I'm a Data Science and Engineering student at University of Applied Sciences Upper Austria, Hagenberg especially interested in Machine Learning for Accounting and Finance!
 
 - 👨🏻‍💻 I'm currently working on my own API.
 - 🌱 I’m currently learning about Neuro-Symbolic AI.
