@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Fabian, and I'm a Data Science and Engineering Student at University of Applied Sciences Upper Austria, Hagenberg especially interested in Machine Learning!
+My name is Fabian, and I'm a Data Science and Engineering Student at University of Applied Sciences Upper Austria, Hagenberg and Data Science - Fastlane Program Participant at BMW Group in Steyr.
 
 - 👨🏻‍💻 I'm currently working on my own LLM-API.
 - 🌱 I’m currently learning about Neuro-Symbolic AI and LLM-Finetuning using LoRa.
