@@ -1,5 +1,6 @@
 ### Hi there 👋
 
-My name is Fabian, and I'm a Data Science and Engineering Student at University of Applied Sciences Upper Austria, Hagenberg.
+- Data Analysis during Day 🌄
+- Process Mining, Odoo Development, AI-Automation during Night 🌃
 
 
